@@ -6,6 +6,7 @@
 - A clean and classic home screen
 - Control your spaceship with arrow keys to dodge unpredictable obstacles (they change direction mid-way — stay sharp!)
 - Continuously scrolling background to simulate racing through a space tunnel.
+- The speed and frequency of obstacle generation increases over time for an escalating challenge.
 - A high score tracker to keep you motivated
 - Cool, non-copyrighted space background music
 - A clean end-game screen when it’s game over
