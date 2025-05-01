@@ -1,11 +1,11 @@
 # 🚀 Race In Space
 
-**Race In Space** is a simple yet exciting 2D endless runner game made using **Python** and **Pygame**. The goal is to dodge obstacles and survive in space for as long as you can while chasing high scores. It's fast, fun, and space-themed!
+**Race In Space** is a simple yet exciting 2D endless runner game made using **Python** and **Pygame**. The goal is to dodge obstacles and survive for as long as you can inside a fast-moving space tunnel. It's fast, fun, with cool visuals, immersive music and a fun arcade experience!
 
 ## 🎮 What’s Inside
 - A clean and classic home screen
 - Control your spaceship with arrow keys to dodge unpredictable obstacles (they change direction mid-way — stay sharp!)
-- A scrolling starfield background for that "zooming through space" feel
+- Continuously scrolling background to simulate racing through a space tunnel.
 - A high score tracker to keep you motivated
 - Cool, non-copyrighted space background music
 - A clean end-game screen when it’s game over
